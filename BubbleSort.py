@@ -4,7 +4,7 @@
 #Importing the array module.
 import array
 
-#Initializing the array, you can choose from multple array examples:
+#Initializing the array, you can choose from multiple array examples:
 #Exmaple number one:
 #int_array = array.array('i',[2,3,4,1])
 #Exmaple number two:
