@@ -8,11 +8,11 @@ import array
 #Exmaple number one:
 #int_array = array.array('i',[2,3,4,1])
 #Exmaple number two:
-#int_array = array.array('i',[7,2,5,3,4,1])
+int_array = array.array('i',[7,2,5,3,4,1])
 #Example number three:
 #int_array = array.array('i',[2,8,4,9,1])
 #Example number four:
-int_array = array.array('i',[2,3,2,1,1,3,2,4])
+#int_array = array.array('i',[2,3,2,1,1,3,2,4])
 
 #Declaring the boolean flag.
 flag = False
